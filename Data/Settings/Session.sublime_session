@@ -1,0 +1,444 @@
+{
+	"folder_history":
+	[
+		"/C/Users/Gal/Downloads/GalDevKit/Test",
+		"/C/Users/Gal/Downloads/GalDevKit/Template"
+	],
+	"last_window_id": 3,
+	"settings":
+	{
+		"new_window_height": 468.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 81.0,
+				"selected_items":
+				[
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 392.0
+			},
+			"console":
+			{
+				"height": 125.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/Users/Gal/Downloads/GalDevKit/Data/Packages/JavaScript/JavaScript.sublime-build",
+				"/C/Users/Gal/Downloads/Sublime Text 2.0.2 x64/Data/Packages/JavaScript/JavaScript.sublime-build",
+				"/C/Users/Gal/Downloads/GalDevKit/Data/Packages/JavaScript/JSlibs/examples/helloworld.js",
+				"/C/Users/Gal/Downloads/GalDevKit/Data/Packages/JavaScript/JSlibs/examples/miniInteractiveConsole.js"
+			],
+			"find":
+			{
+				"height": 0.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 100.0
+			},
+			"replace":
+			{
+				"height": 0.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true
+		},
+		"new_window_width": 640.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"e",
+						"Exec"
+					],
+					[
+						"mo",
+						"module	(?)"
+					],
+					[
+						"pr",
+						"print(message)"
+					],
+					[
+						"p",
+						"print(message)"
+					],
+					[
+						"stdd",
+						"stddda	{}"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/C/Users/Gal/Downloads/GalDevKit/Test/main.js",
+					"settings":
+					{
+						"buffer_size": 756,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/Users/Gal/Downloads/GalDevKit/Test/program.js",
+					"settings":
+					{
+						"buffer_size": 107,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/Users/Gal/Downloads/GalDevKit/Test/extension.js",
+					"settings":
+					{
+						"buffer_size": 251,
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "Packages/JavaScript/JavaScript.sublime-build",
+			"command_palette":
+			{
+				"height": 81.0,
+				"selected_items":
+				[
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 392.0
+			},
+			"console":
+			{
+				"height": 125.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/Users/Gal/Downloads/GalDevKit/Data/Packages/JavaScript/JavaScript.sublime-build",
+				"/C/Users/Gal/Downloads/GalDevKit/Test/extension.js",
+				"/C/Users/Gal/Downloads/GalDevKit/Test/main.js",
+				"/C/Users/Gal/Downloads/GalDevKit/Test/program.js",
+				"/C/Users/Gal/Downloads/Sublime Text 2.0.2 x64/Data/Packages/JavaScript/JavaScript.sublime-build",
+				"/C/Users/Gal/Downloads/GalDevKit/Data/Packages/JavaScript/JSlibs/examples/helloworld.js",
+				"/C/Users/Gal/Downloads/GalDevKit/Data/Packages/JavaScript/JSlibs/examples/miniInteractiveConsole.js"
+			],
+			"find":
+			{
+				"height": 0.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"\n"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/C/Users/Gal/Downloads/GalDevKit/Test"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 2,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/C/Users/Gal/Downloads/GalDevKit/Test/main.js",
+							"settings":
+							{
+								"buffer_size": 756,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										332,
+										353
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/C/Users/Gal/Downloads/GalDevKit/Test/program.js",
+							"settings":
+							{
+								"buffer_size": 107,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										85,
+										85
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/C/Users/Gal/Downloads/GalDevKit/Test/extension.js",
+							"settings":
+							{
+								"buffer_size": 251,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										245,
+										245
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 100.0
+			},
+			"position": "0,2,2,-32000,-32000,-1,-1,553,26,26,682",
+			"replace":
+			{
+				"height": 0.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"window_id": 3,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

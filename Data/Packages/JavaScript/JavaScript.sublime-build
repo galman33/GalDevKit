@@ -1,0 +1,5 @@
+{
+	"cmd": ["cmd", "/c start ${packages}\\JavaScript\\JSlibs\\bin\\jshost main.js"],
+	"file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
+	"selector": "source.js"
+}
